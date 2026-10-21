@@ -1,0 +1,2184 @@
+[{
+  "_id": {
+    "$oid": "6ad62e61e67b49ad65e510db"
+  },
+  "SetupId": 30177649,
+  "BankEntryNumber": 1,
+  "BankEntryId": {
+    "$numberLong": "705023428"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:51:13.380Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "VML",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "100.00"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62e61e67b49ad65e510dc"
+  },
+  "SetupId": 30177649,
+  "BankEntryNumber": 1,
+  "BankEntryId": {
+    "$numberLong": "705023428"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:51:13.380Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "VectorSearch",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "100.00"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62e61e67b49ad65e510dd"
+  },
+  "SetupId": 30177649,
+  "BankEntryNumber": 1,
+  "BankEntryId": {
+    "$numberLong": "705023428"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:51:13.380Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "StaticRulesV1",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "100.00"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62e61e67b49ad65e510de"
+  },
+  "SetupId": 30177649,
+  "BankEntryNumber": 1,
+  "BankEntryId": {
+    "$numberLong": "705023428"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:51:13.380Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "StaticRulesV2",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "100.00"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62e61e67b49ad65e510df"
+  },
+  "SetupId": 30177649,
+  "BankEntryNumber": 1,
+  "BankEntryId": {
+    "$numberLong": "705023428"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:51:13.380Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "CommonModel",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "100.00"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62e61e67b49ad65e510e0"
+  },
+  "SetupId": 30177649,
+  "BankEntryNumber": 1,
+  "BankEntryId": {
+    "$numberLong": "705023428"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:51:13.380Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "FullTextSearch",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "100.00"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62e65e67b49ad65e51112"
+  },
+  "SetupId": 30177700,
+  "BankEntryNumber": 1,
+  "BankEntryId": {
+    "$numberLong": "705023365"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:51:17.244Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "VML",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "401.25"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62e65e67b49ad65e51113"
+  },
+  "SetupId": 30177700,
+  "BankEntryNumber": 2,
+  "BankEntryId": {
+    "$numberLong": "705023366"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:51:17.244Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "VML",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-1978.75"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62e65e67b49ad65e51114"
+  },
+  "SetupId": 30177700,
+  "BankEntryNumber": 1,
+  "BankEntryId": {
+    "$numberLong": "705023365"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:51:17.244Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "VectorSearch",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "401.25"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62e65e67b49ad65e51115"
+  },
+  "SetupId": 30177700,
+  "BankEntryNumber": 2,
+  "BankEntryId": {
+    "$numberLong": "705023366"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:51:17.244Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "VectorSearch",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-1978.75"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62e65e67b49ad65e51116"
+  },
+  "SetupId": 30177700,
+  "BankEntryNumber": 1,
+  "BankEntryId": {
+    "$numberLong": "705023365"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:51:17.244Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "StaticRulesV1",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "401.25"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62e65e67b49ad65e51117"
+  },
+  "SetupId": 30177700,
+  "BankEntryNumber": 2,
+  "BankEntryId": {
+    "$numberLong": "705023366"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:51:17.244Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "StaticRulesV1",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-1978.75"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62e65e67b49ad65e51118"
+  },
+  "SetupId": 30177700,
+  "BankEntryNumber": 1,
+  "BankEntryId": {
+    "$numberLong": "705023365"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:51:17.244Z"
+  },
+  "EntryType": "CustomerPayment",
+  "EntryTypeValue": "2",
+  "InvoiceId": null,
+  "AutoSuggestSource": "StaticRulesV2",
+  "Confidence": 0.05,
+  "Amount": {
+    "$numberDecimal": "401.25"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62e65e67b49ad65e51119"
+  },
+  "SetupId": 30177700,
+  "BankEntryNumber": 2,
+  "BankEntryId": {
+    "$numberLong": "705023366"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:51:17.244Z"
+  },
+  "EntryType": "SupplierPayment",
+  "EntryTypeValue": "2",
+  "InvoiceId": null,
+  "AutoSuggestSource": "StaticRulesV2",
+  "Confidence": 0.1,
+  "Amount": {
+    "$numberDecimal": "-1978.75"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62e65e67b49ad65e5111a"
+  },
+  "SetupId": 30177700,
+  "BankEntryNumber": 1,
+  "BankEntryId": {
+    "$numberLong": "705023365"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:51:17.244Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "CommonModel",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "401.25"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62e65e67b49ad65e5111b"
+  },
+  "SetupId": 30177700,
+  "BankEntryNumber": 2,
+  "BankEntryId": {
+    "$numberLong": "705023366"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:51:17.244Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "CommonModel",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-1978.75"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62e65e67b49ad65e5111c"
+  },
+  "SetupId": 30177700,
+  "BankEntryNumber": 1,
+  "BankEntryId": {
+    "$numberLong": "705023365"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:51:17.244Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "FullTextSearch",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "401.25"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62e65e67b49ad65e5111d"
+  },
+  "SetupId": 30177700,
+  "BankEntryNumber": 2,
+  "BankEntryId": {
+    "$numberLong": "705023366"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:51:17.244Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "FullTextSearch",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-1978.75"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62e6be67b49ad65e511dc"
+  },
+  "SetupId": 30177675,
+  "BankEntryNumber": 1,
+  "BankEntryId": {
+    "$numberLong": "705023430"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:51:23.446Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "VML",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "100.00"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62e6be67b49ad65e511dd"
+  },
+  "SetupId": 30177675,
+  "BankEntryNumber": 1,
+  "BankEntryId": {
+    "$numberLong": "705023430"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:51:23.446Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "VectorSearch",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "100.00"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62e6be67b49ad65e511de"
+  },
+  "SetupId": 30177675,
+  "BankEntryNumber": 1,
+  "BankEntryId": {
+    "$numberLong": "705023430"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:51:23.446Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "StaticRulesV1",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "100.00"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62e6be67b49ad65e511df"
+  },
+  "SetupId": 30177675,
+  "BankEntryNumber": 1,
+  "BankEntryId": {
+    "$numberLong": "705023430"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:51:23.446Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "StaticRulesV2",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "100.00"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62e6be67b49ad65e511e0"
+  },
+  "SetupId": 30177675,
+  "BankEntryNumber": 1,
+  "BankEntryId": {
+    "$numberLong": "705023430"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:51:23.446Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "CommonModel",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "100.00"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62e6be67b49ad65e511e1"
+  },
+  "SetupId": 30177675,
+  "BankEntryNumber": 1,
+  "BankEntryId": {
+    "$numberLong": "705023430"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:51:23.446Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "FullTextSearch",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "100.00"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62e6de67b49ad65e511f7"
+  },
+  "SetupId": 30177655,
+  "BankEntryNumber": 1,
+  "BankEntryId": {
+    "$numberLong": "705023429"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:51:25.286Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "VML",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "100"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62e6de67b49ad65e511f8"
+  },
+  "SetupId": 30177655,
+  "BankEntryNumber": 1,
+  "BankEntryId": {
+    "$numberLong": "705023429"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:51:25.287Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "StaticRulesV2",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "100"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62e6de67b49ad65e511f9"
+  },
+  "SetupId": 30177655,
+  "BankEntryNumber": 1,
+  "BankEntryId": {
+    "$numberLong": "705023429"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:51:25.287Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "FullTextSearch",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "100"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62e6de67b49ad65e511fa"
+  },
+  "SetupId": 30177655,
+  "BankEntryNumber": 1,
+  "BankEntryId": {
+    "$numberLong": "705023429"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:51:25.287Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "CommonModel",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "100"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62e90e67b49ad65e514dd"
+  },
+  "SetupId": 30177700,
+  "BankEntryNumber": 6,
+  "BankEntryId": {
+    "$numberLong": "705023370"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:52:00.299Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "VML",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-3006.25"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62e90e67b49ad65e514de"
+  },
+  "SetupId": 30177700,
+  "BankEntryNumber": 7,
+  "BankEntryId": {
+    "$numberLong": "705023371"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:52:00.299Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "VML",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "2222"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62e90e67b49ad65e514df"
+  },
+  "SetupId": 30177700,
+  "BankEntryNumber": 6,
+  "BankEntryId": {
+    "$numberLong": "705023370"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:52:00.299Z"
+  },
+  "EntryType": "SupplierPayment",
+  "EntryTypeValue": "2",
+  "InvoiceId": null,
+  "AutoSuggestSource": "StaticRulesV2",
+  "Confidence": 0.05,
+  "Amount": {
+    "$numberDecimal": "-3006.25"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62e90e67b49ad65e514e0"
+  },
+  "SetupId": 30177700,
+  "BankEntryNumber": 7,
+  "BankEntryId": {
+    "$numberLong": "705023371"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:52:00.299Z"
+  },
+  "EntryType": "CustomerPayment",
+  "EntryTypeValue": "2",
+  "InvoiceId": null,
+  "AutoSuggestSource": "StaticRulesV2",
+  "Confidence": 0.1,
+  "Amount": {
+    "$numberDecimal": "2222"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62e90e67b49ad65e514e1"
+  },
+  "SetupId": 30177700,
+  "BankEntryNumber": 6,
+  "BankEntryId": {
+    "$numberLong": "705023370"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:52:00.299Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "FullTextSearch",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-3006.25"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62e90e67b49ad65e514e2"
+  },
+  "SetupId": 30177700,
+  "BankEntryNumber": 7,
+  "BankEntryId": {
+    "$numberLong": "705023371"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:52:00.299Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "FullTextSearch",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "2222"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62e90e67b49ad65e514e3"
+  },
+  "SetupId": 30177700,
+  "BankEntryNumber": 6,
+  "BankEntryId": {
+    "$numberLong": "705023370"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:52:00.299Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "CommonModel",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-3006.25"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62e90e67b49ad65e514e4"
+  },
+  "SetupId": 30177700,
+  "BankEntryNumber": 7,
+  "BankEntryId": {
+    "$numberLong": "705023371"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:52:00.299Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "CommonModel",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "2222"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62e9ae67b49ad65e515ca"
+  },
+  "SetupId": 30177837,
+  "BankEntryNumber": 1,
+  "BankEntryId": {
+    "$numberLong": "705023556"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:52:10.161Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "VML",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "325.63"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62e9ae67b49ad65e515cb"
+  },
+  "SetupId": 30177837,
+  "BankEntryNumber": 1,
+  "BankEntryId": {
+    "$numberLong": "705023556"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:52:10.161Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "StaticRulesV2",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "325.63"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62e9ae67b49ad65e515cc"
+  },
+  "SetupId": 30177837,
+  "BankEntryNumber": 1,
+  "BankEntryId": {
+    "$numberLong": "705023556"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:52:10.161Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "FullTextSearch",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "325.63"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62e9ae67b49ad65e515cd"
+  },
+  "SetupId": 30177837,
+  "BankEntryNumber": 1,
+  "BankEntryId": {
+    "$numberLong": "705023556"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:52:10.161Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "CommonModel",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "325.63"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62ea8e67b49ad65e516c3"
+  },
+  "SetupId": 30177849,
+  "BankEntryNumber": 1,
+  "BankEntryId": {
+    "$numberLong": "705023565"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:52:24.748Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "VML",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "325.63"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62ea8e67b49ad65e516c4"
+  },
+  "SetupId": 30177849,
+  "BankEntryNumber": 2,
+  "BankEntryId": {
+    "$numberLong": "705023566"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:52:24.748Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "VML",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-12300"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62ea8e67b49ad65e516c5"
+  },
+  "SetupId": 30177849,
+  "BankEntryNumber": 3,
+  "BankEntryId": {
+    "$numberLong": "705023567"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:52:24.748Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "VML",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-2018.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62ea8e67b49ad65e516c6"
+  },
+  "SetupId": 30177849,
+  "BankEntryNumber": 4,
+  "BankEntryId": {
+    "$numberLong": "705023568"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:52:24.748Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "VML",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-6000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62ea8e67b49ad65e516c7"
+  },
+  "SetupId": 30177849,
+  "BankEntryNumber": 5,
+  "BankEntryId": {
+    "$numberLong": "705023569"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:52:24.748Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "VML",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-4376"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62ea8e67b49ad65e516c8"
+  },
+  "SetupId": 30177849,
+  "BankEntryNumber": 6,
+  "BankEntryId": {
+    "$numberLong": "705023570"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:52:24.748Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "VML",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-990"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62ea8e67b49ad65e516c9"
+  },
+  "SetupId": 30177849,
+  "BankEntryNumber": 7,
+  "BankEntryId": {
+    "$numberLong": "705023571"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:52:24.748Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "VML",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-2000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62ea8e67b49ad65e516ca"
+  },
+  "SetupId": 30177849,
+  "BankEntryNumber": 8,
+  "BankEntryId": {
+    "$numberLong": "705023572"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:52:24.748Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "VML",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "25.56"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62ea8e67b49ad65e516cb"
+  },
+  "SetupId": 30177849,
+  "BankEntryNumber": 1,
+  "BankEntryId": {
+    "$numberLong": "705023565"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:52:24.748Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "StaticRulesV2",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "325.63"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62ea8e67b49ad65e516cc"
+  },
+  "SetupId": 30177849,
+  "BankEntryNumber": 2,
+  "BankEntryId": {
+    "$numberLong": "705023566"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:52:24.748Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "StaticRulesV2",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-12300"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62ea8e67b49ad65e516cd"
+  },
+  "SetupId": 30177849,
+  "BankEntryNumber": 3,
+  "BankEntryId": {
+    "$numberLong": "705023567"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:52:24.748Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "StaticRulesV2",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-2018.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62ea8e67b49ad65e516ce"
+  },
+  "SetupId": 30177849,
+  "BankEntryNumber": 4,
+  "BankEntryId": {
+    "$numberLong": "705023568"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:52:24.748Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "StaticRulesV2",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-6000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62ea8e67b49ad65e516cf"
+  },
+  "SetupId": 30177849,
+  "BankEntryNumber": 5,
+  "BankEntryId": {
+    "$numberLong": "705023569"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:52:24.748Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "StaticRulesV2",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-4376"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62ea8e67b49ad65e516d0"
+  },
+  "SetupId": 30177849,
+  "BankEntryNumber": 6,
+  "BankEntryId": {
+    "$numberLong": "705023570"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:52:24.748Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "StaticRulesV2",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-990"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62ea8e67b49ad65e516d1"
+  },
+  "SetupId": 30177849,
+  "BankEntryNumber": 7,
+  "BankEntryId": {
+    "$numberLong": "705023571"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:52:24.748Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "StaticRulesV2",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-2000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62ea8e67b49ad65e516d2"
+  },
+  "SetupId": 30177849,
+  "BankEntryNumber": 8,
+  "BankEntryId": {
+    "$numberLong": "705023572"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:52:24.748Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "StaticRulesV2",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "25.56"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62ea8e67b49ad65e516d3"
+  },
+  "SetupId": 30177849,
+  "BankEntryNumber": 1,
+  "BankEntryId": {
+    "$numberLong": "705023565"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:52:24.748Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "FullTextSearch",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "325.63"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62ea8e67b49ad65e516d4"
+  },
+  "SetupId": 30177849,
+  "BankEntryNumber": 2,
+  "BankEntryId": {
+    "$numberLong": "705023566"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:52:24.748Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "FullTextSearch",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-12300"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62ea8e67b49ad65e516d5"
+  },
+  "SetupId": 30177849,
+  "BankEntryNumber": 3,
+  "BankEntryId": {
+    "$numberLong": "705023567"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:52:24.748Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "FullTextSearch",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-2018.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62ea8e67b49ad65e516d6"
+  },
+  "SetupId": 30177849,
+  "BankEntryNumber": 4,
+  "BankEntryId": {
+    "$numberLong": "705023568"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:52:24.748Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "FullTextSearch",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-6000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62ea8e67b49ad65e516d7"
+  },
+  "SetupId": 30177849,
+  "BankEntryNumber": 5,
+  "BankEntryId": {
+    "$numberLong": "705023569"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:52:24.748Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "FullTextSearch",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-4376"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62ea8e67b49ad65e516d8"
+  },
+  "SetupId": 30177849,
+  "BankEntryNumber": 6,
+  "BankEntryId": {
+    "$numberLong": "705023570"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:52:24.748Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "FullTextSearch",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-990"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62ea8e67b49ad65e516d9"
+  },
+  "SetupId": 30177849,
+  "BankEntryNumber": 7,
+  "BankEntryId": {
+    "$numberLong": "705023571"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:52:24.748Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "FullTextSearch",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-2000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62ea8e67b49ad65e516da"
+  },
+  "SetupId": 30177849,
+  "BankEntryNumber": 8,
+  "BankEntryId": {
+    "$numberLong": "705023572"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:52:24.748Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "FullTextSearch",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "25.56"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62ea8e67b49ad65e516db"
+  },
+  "SetupId": 30177849,
+  "BankEntryNumber": 1,
+  "BankEntryId": {
+    "$numberLong": "705023565"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:52:24.748Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "CommonModel",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "325.63"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62ea8e67b49ad65e516dc"
+  },
+  "SetupId": 30177849,
+  "BankEntryNumber": 2,
+  "BankEntryId": {
+    "$numberLong": "705023566"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:52:24.748Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "CommonModel",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-12300"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62ea8e67b49ad65e516dd"
+  },
+  "SetupId": 30177849,
+  "BankEntryNumber": 3,
+  "BankEntryId": {
+    "$numberLong": "705023567"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:52:24.748Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "CommonModel",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-2018.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62ea8e67b49ad65e516de"
+  },
+  "SetupId": 30177849,
+  "BankEntryNumber": 4,
+  "BankEntryId": {
+    "$numberLong": "705023568"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:52:24.748Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "CommonModel",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-6000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62ea8e67b49ad65e516df"
+  },
+  "SetupId": 30177849,
+  "BankEntryNumber": 5,
+  "BankEntryId": {
+    "$numberLong": "705023569"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:52:24.748Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "CommonModel",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-4376"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62ea8e67b49ad65e516e0"
+  },
+  "SetupId": 30177849,
+  "BankEntryNumber": 6,
+  "BankEntryId": {
+    "$numberLong": "705023570"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:52:24.748Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "CommonModel",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-990"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62ea8e67b49ad65e516e1"
+  },
+  "SetupId": 30177849,
+  "BankEntryNumber": 7,
+  "BankEntryId": {
+    "$numberLong": "705023571"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:52:24.748Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "CommonModel",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-2000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62ea8e67b49ad65e516e2"
+  },
+  "SetupId": 30177849,
+  "BankEntryNumber": 8,
+  "BankEntryId": {
+    "$numberLong": "705023572"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:52:24.748Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "CommonModel",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "25.56"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62edce67b49ad65e5195a"
+  },
+  "SetupId": 30177893,
+  "BankEntryNumber": 1,
+  "BankEntryId": {
+    "$numberLong": "705023744"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:53:16.433Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "VML",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "325.63"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62edce67b49ad65e5195b"
+  },
+  "SetupId": 30177893,
+  "BankEntryNumber": 2,
+  "BankEntryId": {
+    "$numberLong": "705023745"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:53:16.433Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "VML",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-12300"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62edce67b49ad65e5195c"
+  },
+  "SetupId": 30177893,
+  "BankEntryNumber": 3,
+  "BankEntryId": {
+    "$numberLong": "705023746"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:53:16.433Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "VML",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-2018.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62edce67b49ad65e5195d"
+  },
+  "SetupId": 30177893,
+  "BankEntryNumber": 4,
+  "BankEntryId": {
+    "$numberLong": "705023747"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:53:16.433Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "VML",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-6000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62edce67b49ad65e5195e"
+  },
+  "SetupId": 30177893,
+  "BankEntryNumber": 5,
+  "BankEntryId": {
+    "$numberLong": "705023748"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:53:16.433Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "VML",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-4376"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62edce67b49ad65e5195f"
+  },
+  "SetupId": 30177893,
+  "BankEntryNumber": 6,
+  "BankEntryId": {
+    "$numberLong": "705023749"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:53:16.433Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "VML",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-990"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62edce67b49ad65e51960"
+  },
+  "SetupId": 30177893,
+  "BankEntryNumber": 7,
+  "BankEntryId": {
+    "$numberLong": "705023750"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:53:16.433Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "VML",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-2000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62edce67b49ad65e51961"
+  },
+  "SetupId": 30177893,
+  "BankEntryNumber": 8,
+  "BankEntryId": {
+    "$numberLong": "705023751"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:53:16.433Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "VML",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "25.56"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62edce67b49ad65e51962"
+  },
+  "SetupId": 30177893,
+  "BankEntryNumber": 1,
+  "BankEntryId": {
+    "$numberLong": "705023744"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:53:16.433Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "StaticRulesV2",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "325.63"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62edce67b49ad65e51963"
+  },
+  "SetupId": 30177893,
+  "BankEntryNumber": 2,
+  "BankEntryId": {
+    "$numberLong": "705023745"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:53:16.433Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "StaticRulesV2",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-12300"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62edce67b49ad65e51964"
+  },
+  "SetupId": 30177893,
+  "BankEntryNumber": 3,
+  "BankEntryId": {
+    "$numberLong": "705023746"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:53:16.433Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "StaticRulesV2",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-2018.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62edce67b49ad65e51965"
+  },
+  "SetupId": 30177893,
+  "BankEntryNumber": 4,
+  "BankEntryId": {
+    "$numberLong": "705023747"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:53:16.433Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "StaticRulesV2",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-6000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62edce67b49ad65e51966"
+  },
+  "SetupId": 30177893,
+  "BankEntryNumber": 5,
+  "BankEntryId": {
+    "$numberLong": "705023748"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:53:16.433Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "StaticRulesV2",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-4376"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62edce67b49ad65e51967"
+  },
+  "SetupId": 30177893,
+  "BankEntryNumber": 6,
+  "BankEntryId": {
+    "$numberLong": "705023749"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:53:16.433Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "StaticRulesV2",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-990"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62edce67b49ad65e51968"
+  },
+  "SetupId": 30177893,
+  "BankEntryNumber": 7,
+  "BankEntryId": {
+    "$numberLong": "705023750"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:53:16.433Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "StaticRulesV2",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-2000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62edce67b49ad65e51969"
+  },
+  "SetupId": 30177893,
+  "BankEntryNumber": 8,
+  "BankEntryId": {
+    "$numberLong": "705023751"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:53:16.433Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "StaticRulesV2",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "25.56"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62edce67b49ad65e5196a"
+  },
+  "SetupId": 30177893,
+  "BankEntryNumber": 1,
+  "BankEntryId": {
+    "$numberLong": "705023744"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:53:16.433Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "FullTextSearch",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "325.63"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62edce67b49ad65e5196b"
+  },
+  "SetupId": 30177893,
+  "BankEntryNumber": 2,
+  "BankEntryId": {
+    "$numberLong": "705023745"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:53:16.433Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "FullTextSearch",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-12300"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62edce67b49ad65e5196c"
+  },
+  "SetupId": 30177893,
+  "BankEntryNumber": 3,
+  "BankEntryId": {
+    "$numberLong": "705023746"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:53:16.433Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "FullTextSearch",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-2018.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62edce67b49ad65e5196d"
+  },
+  "SetupId": 30177893,
+  "BankEntryNumber": 4,
+  "BankEntryId": {
+    "$numberLong": "705023747"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:53:16.433Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "FullTextSearch",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-6000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62edce67b49ad65e5196e"
+  },
+  "SetupId": 30177893,
+  "BankEntryNumber": 5,
+  "BankEntryId": {
+    "$numberLong": "705023748"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:53:16.433Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "FullTextSearch",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-4376"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62edce67b49ad65e5196f"
+  },
+  "SetupId": 30177893,
+  "BankEntryNumber": 6,
+  "BankEntryId": {
+    "$numberLong": "705023749"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:53:16.433Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "FullTextSearch",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-990"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62edce67b49ad65e51970"
+  },
+  "SetupId": 30177893,
+  "BankEntryNumber": 7,
+  "BankEntryId": {
+    "$numberLong": "705023750"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:53:16.433Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "FullTextSearch",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-2000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62edce67b49ad65e51971"
+  },
+  "SetupId": 30177893,
+  "BankEntryNumber": 8,
+  "BankEntryId": {
+    "$numberLong": "705023751"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:53:16.433Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "FullTextSearch",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "25.56"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62edce67b49ad65e51972"
+  },
+  "SetupId": 30177893,
+  "BankEntryNumber": 1,
+  "BankEntryId": {
+    "$numberLong": "705023744"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:53:16.433Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "CommonModel",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "325.63"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62edce67b49ad65e51973"
+  },
+  "SetupId": 30177893,
+  "BankEntryNumber": 2,
+  "BankEntryId": {
+    "$numberLong": "705023745"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:53:16.433Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "CommonModel",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-12300"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62edce67b49ad65e51974"
+  },
+  "SetupId": 30177893,
+  "BankEntryNumber": 3,
+  "BankEntryId": {
+    "$numberLong": "705023746"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:53:16.433Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "CommonModel",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-2018.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62edce67b49ad65e51975"
+  },
+  "SetupId": 30177893,
+  "BankEntryNumber": 4,
+  "BankEntryId": {
+    "$numberLong": "705023747"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:53:16.433Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "CommonModel",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-6000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62edce67b49ad65e51976"
+  },
+  "SetupId": 30177893,
+  "BankEntryNumber": 5,
+  "BankEntryId": {
+    "$numberLong": "705023748"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:53:16.433Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "CommonModel",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-4376"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62edce67b49ad65e51977"
+  },
+  "SetupId": 30177893,
+  "BankEntryNumber": 6,
+  "BankEntryId": {
+    "$numberLong": "705023749"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:53:16.433Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "CommonModel",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-990"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62edce67b49ad65e51978"
+  },
+  "SetupId": 30177893,
+  "BankEntryNumber": 7,
+  "BankEntryId": {
+    "$numberLong": "705023750"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:53:16.433Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "CommonModel",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "-2000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62edce67b49ad65e51979"
+  },
+  "SetupId": 30177893,
+  "BankEntryNumber": 8,
+  "BankEntryId": {
+    "$numberLong": "705023751"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:53:16.433Z"
+  },
+  "EntryType": null,
+  "EntryTypeValue": null,
+  "InvoiceId": null,
+  "AutoSuggestSource": "CommonModel",
+  "Confidence": 0,
+  "Amount": {
+    "$numberDecimal": "25.56"
+  }
+}]

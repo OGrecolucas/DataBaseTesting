@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "6ad62e62e67b49ad65e510e2"
+  },
+  "SetupId": 30177649,
+  "BankEntryNumber": 1,
+  "BankEntryId": {
+    "$numberLong": "705023428"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:51:14.002Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62e65e67b49ad65e51121"
+  },
+  "SetupId": 30177700,
+  "BankEntryNumber": 1,
+  "BankEntryId": {
+    "$numberLong": "705023365"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:51:17.335Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62e65e67b49ad65e51122"
+  },
+  "SetupId": 30177700,
+  "BankEntryNumber": 2,
+  "BankEntryId": {
+    "$numberLong": "705023366"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:51:17.335Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ad62e6be67b49ad65e511e5"
+  },
+  "SetupId": 30177675,
+  "BankEntryNumber": 1,
+  "BankEntryId": {
+    "$numberLong": "705023430"
+  },
+  "CreatedAt": {
+    "$date": "2026-10-19T14:51:23.571Z"
+  }
+}]
