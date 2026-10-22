@@ -29,13 +29,12 @@ Wait until all three are approved. The access is time-limited, so it may need to
 
 ## Step 2: Install the tools (one time)
 
-1. Install the [Google Cloud CLI](https://cloud.google.com/sdk/docs/install).
-2. Install the Cloud SQL Proxy:
+1. Install the Cloud SQL Proxy(Google Cloud CLI is included in dev-scripts):
    ```
    gcloud components install cloud-sql-proxy
    ```
    If that doesn't work, download it from the [Cloud SQL Proxy page](https://cloud.google.com/sql/docs/postgres/sql-proxy#install).
-3. Install a Postgres client (the VS Code PostgreSQL extension or DBeaver).
+2. Install a Postgres client (the VS Code PostgreSQL extension or DBeaver).
 
 ## Step 3: Log in to gcloud with your CPA account
 
